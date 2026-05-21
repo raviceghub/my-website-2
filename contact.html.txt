@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact Us</title>
+  style.css
+</head>
+<body>
+
+<h1>Contact Us</h1>
+
+<button onclick="goToHome()">Home</button>
+
+script.js>
+</body>
+</html>

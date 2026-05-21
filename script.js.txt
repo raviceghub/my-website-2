@@ -1,0 +1,13 @@
+console.log("Website loaded");
+
+function goToAbout() {
+  window.location.href = "about.html";
+}
+
+function goToContact() {
+  window.location.href = "contact.html";
+}
+
+function goToHome() {
+  window.location.href = "index.html";
+}
